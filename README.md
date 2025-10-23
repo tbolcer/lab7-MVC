@@ -40,6 +40,8 @@ This project implements a simple chat application using a **Model-View-Controlle
     ```
 2.  Open **index.html** in a modern browser (Chrome, Edge, Firefox).
 3.  Start chatting with the bot!
+4.  Access the application on **Netlify** via:
+[This Link!](https://68fa6dd9ee103226fff47162--lab7mvc.netlify.app/)
 
 ---
 
