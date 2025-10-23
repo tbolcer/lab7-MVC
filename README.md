@@ -35,7 +35,7 @@ This project implements a simple chat application using a **Model-View-Controlle
 ## ⚙️ Installation & Usage
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/tbolcer/lab7-MVC-CRUD](https://github.com/tbolcer/lab7-MVC-CRUD.git)
+    git clone [https://github.com/tbolcer/lab7-MVC](https://github.com/tbolcer/lab7-MVC.git)
     cd lab7-MVC-CRUD
     ```
 2.  Open **index.html** in a modern browser (Chrome, Edge, Firefox).
